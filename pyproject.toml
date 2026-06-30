@@ -16,4 +16,5 @@ dependencies = [
     "torchvision>=0.27.1",
     "tqdm>=4.68.3",
     "ultralytics>=8.4.78",
+    "wandb>=0.28.0",
 ]
